@@ -3,6 +3,7 @@
 This software project is a Converter. 
 The goal is to display a user interface and convert the user’s input centimetres value in feet and meters.
 
+Featuring Software Design Pattern: 
 * Model View Controller (MVC)
 * Observer design pattern 
 * Command design pattern
